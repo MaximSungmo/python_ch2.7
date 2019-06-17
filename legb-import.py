@@ -1,0 +1,3 @@
+import legb
+
+legb.f()
